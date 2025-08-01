@@ -1,16 +1,18 @@
-## Hi there 👋
+### 🌫️ Jade | dimFebruary
 
-<!--
-**dimFebruary/dimFebruary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Jade —  
+A February-born soul who finds comfort in quiet days, clouded skies, and clean code.
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- C++, Python & Data Structures
+- Web Development
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎨 Also into:
+- Sketching, Watercolor
+- Writing fragments of thoughts in quiet corners
+- Exploring anime worlds & dreamy aesthetics
+- Stargazing, space science, and quiet curiosity
+- Honestly... everything — I fall in love with ideas too easily
+
+🌿 Growing slowly, but with heart.
